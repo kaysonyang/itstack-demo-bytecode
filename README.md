@@ -18,26 +18,7 @@
 
 作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果我的文章能为您提供帮助，请给予**支持**(关注、点赞、分享)！
 
-**如何支持：**
 
-- 关注公众号： [`bugstack虫洞栈`](https://bugstack.cn/assets/images/qrcode.png)
-- 收藏技术博客：[`bugstack.cn`](https://bugstack.cn/)
-- Github开源项目给个Star⭐ [CodeGuide | 程序员编码指南 - `https://github.com/xiaofuge/CodeGuide/wiki`](https://github.com/xiaofuge/CodeGuide/wiki) 
-- 分享给您身边更多的小伙伴
-- 还可以赏个鸡腿🍖
-	![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9idWdzdGFjay5jbi9hc3NldHMvaW1hZ2VzL3RpcC5qcGc?x-oss-process=image/format,png)
-
-**与我联系**
-
-如果你在学习和成长的过程中遇到什么问题，也可以添加我的微信进行交流，十分期待想是同好的技术伙伴！
-
-- **加群交流**
-    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 **小傅哥**  微信(fustack)，备注：加群。
-<img src="https://bugstack.cn/assets/images/fustack.png" width="180" height="180"/>
-
-- **公众号(bugstack虫洞栈)**
-    沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析、字节码编程等。
-<img src="https://bugstack.cn/assets/images/qrcode.png" width="180" height="180"/>
 
 ## 目录
 
